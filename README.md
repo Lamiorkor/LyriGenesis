@@ -1,5 +1,5 @@
 # LyriGenesis
-LyriGenesis is our Introduction to Artificial Intelligence (AI) Final Project. It is an AI model that takes a word or phrase from a user and uses it to generate song lyrics whose length is also based on another input by the user.
+LyriGenesis is an Introduction to Artificial Intelligence (AI) Final Project. It is an AI model that takes a word or phrase from a user and uses it to generate song lyrics whose length is also based on another input by the user.
 
 ## Introduction and Motivation
 Music is a universal form of expression that transcends language and cultural barriers. Music lyrics are an important component of music, as they convey the emotions, thoughts, and stories of the artists to the listeners. However, writing music lyrics can be challenging, especially for novice or aspiring musicians who may lack the skills, experience, or inspiration to create original and engaging lyrics.
