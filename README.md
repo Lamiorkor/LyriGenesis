@@ -18,7 +18,7 @@ The project is significant and has a social impact in several ways. First, it ca
 5. The Long Short-Term Memory (LSTM) machine learning technique was used to train the model.
 
 ## Deployment
-The model was deployed on the web using Streamlit. Attached is a link to a video demonstration on how the deployed model operates: 
+The model was deployed on the web using Streamlit. Attached is a link to a video demonstration of how the deployed model operates: https://youtu.be/L1fOmpeHXqQ
 
 ## Conclusion
 In conclusion, our project will present a novel AI-based system for generating music lyrics for a given genre, mood, and theme. The system builds on several aspects of the technical and theoretical knowledge gained in the class so far, including neural networks, natural language processing, and text generation. The system has been evaluated on a dataset of music lyrics, and the results show that the system is able to generate lyrics that are diverse, creative, and consistent with the style of the input music. The system has the potential to be used by songwriters, composers, and music producers to generate new ideas for music lyrics. It can also be used to create personalized music experiences for listeners. The project is also significant and has a social impact in several ways. First, it can provide a useful tool for musicians who want to generate song lyrics or get inspiration from AI-generated lyrics. Second, it can enhance the creativity and diversity of music lyrics by introducing new words, phrases, rhymes, and styles that human lyricists may not commonly use. Third, it can contribute to advancing AI research and development by exploring the challenges and opportunities of applying AI to a creative domain such as music.
